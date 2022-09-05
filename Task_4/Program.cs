@@ -51,12 +51,6 @@ void Max(int[] collection)
 
     }
     Console.WriteLine("max2: " + max2);
-    
-        
-    
-    
-    
-
 }
 
 int n = GenerateRandomNumbers();
